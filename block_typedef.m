@@ -1,5 +1,5 @@
 // Block Typedef
-// 
+// Type defines a block
 //
 // IDECodeSnippetCompletionPrefix: typedefBlock
 // IDECodeSnippetCompletionScopes: [All]
